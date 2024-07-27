@@ -6,6 +6,9 @@ In this elmentation, the usual matrix multiplication QK.T is used to compute the
 
 Refer to the official implementation https://github.com/graphdeeplearning/graphtransformer.
 
+# Youtube video
+https://www.youtube.com/watch?v=5WzurhOr6QI&t=1797s
+
 # Install DGL for MacOs
 1. Dependencies: pydantic, PyYAML, numpy==1.26.4 (version 2 doesn't work)
 2. Install pytorch version: pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2
